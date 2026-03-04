@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação na UEL** e desenvolvedora em busca da minha primeira vaga de estágio para colocar em prática e ampliar minhas competências.
+Sou estudante de **Ciência da Computação na UEL** e desenvolvedora na Platform Science.
 
 * 🤝 **Extensão:** Integrante do projeto ASTIC, prestando assistência em TI para a população de Londrina.
 * 🐾 **Pesquisa:** Colaboradora do PET Computação e Design, criando websites e sistemas de apoio à comunidade externa e interna.
