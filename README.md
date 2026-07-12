@@ -24,7 +24,7 @@ Sou estudante de **Ciência da Computação na UEL** e desenvolvedora na Platfor
 <tr>
 <td valign="top" width="40%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alauram&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-five-puce-51.vercel.app/api/top-langs/?username=alauram&layout=compact&theme=dark)
 
 </td>
 <td valign="top" width="60%">
