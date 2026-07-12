@@ -13,8 +13,8 @@
 
 Sou estudante de **Ciência da Computação na UEL** e desenvolvedora na Platform Science.
 
-* 🤝 **Extensão:** Integrante do projeto ASTIC, prestando assistência em TI para a população de Londrina.
-* 🐾 **Pesquisa:** Colaboradora do PET Computação e Design, criando websites e sistemas de apoio à comunidade externa e interna.
+* 🤝 **Extensão:** Fui integrante do projeto ASTIC, prestando assistência em TI para a população de Londrina.
+* 🐾 **Pesquisa:** Fui colaboradora do PET Computação e Design, criando websites e sistemas de apoio à comunidade externa e interna.
 * 💡 **Foco:** Desenvolvimento web fullstack e mobile, com facilidade de aprendizado de novas tecnologias.
 * 🌍 **Idiomas:** Inglês avançado.
 
